@@ -63,7 +63,7 @@ export default function CreateOrphanage() {
             </div>
 
             <div className="input-block">
-              <label htmlFor="opening_hours">Nome</label>
+              <label htmlFor="opening_hours">Horas de abertura</label>
               <input id="opening_hours" />
             </div>
 
